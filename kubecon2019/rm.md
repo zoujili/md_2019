@@ -41,7 +41,7 @@
                1. call API add_member
                2. starup etcd service in new nod 
                
-               when add member uncorrect info , 不可逆事物 , use learner  (not vote)  etcd github/etcd/learner  pull request 10245
+               when add member uncorrect info , 不可逆事物 , use learner  (not vote)  etcd github/etcd/learner  pull request 10645
         
                
      
