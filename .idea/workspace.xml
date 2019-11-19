@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3f6bef-d922-4a2a-ad7e-c8329621b791" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bilibili/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k9/K9 Backhand Service.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/.rm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_push/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alg/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authz/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/di/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang/gopher meetup-深入浅出Golang Runtime-yifhao-完整版.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k9/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_light/.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipeline/.md" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline/.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/.md" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,27 +26,9 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>type server st</find>
-      <find>shutdown</find>
-      <find>listenandserve</find>
-      <find>serve</find>
-      <find>go c.serve(ctx)</find>
-      <find>c.tlsState = new(tls.ConnectionState)</find>
-      <find>raf</find>
-      <find>newLog</find>
-    </findStrings>
-  </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="283" />
-    <option name="y" value="245" />
-    <option name="width" value="1203" />
-    <option name="height" value="637" />
   </component>
   <component name="ProjectId" id="1QuDtocNxNi7isoLEL7PMn8rUCF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,14 +44,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/oauth/hpid" />
-      <recent name="$PROJECT_DIR$/oauth" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/golang" />
       <recent name="$PROJECT_DIR$/k9" />
       <recent name="$PROJECT_DIR$/oauth" />
       <recent name="$PROJECT_DIR$/snowflake" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oauth/hpid" />
+      <recent name="$PROJECT_DIR$/oauth" />
     </key>
   </component>
   <component name="RunDashboard">
