@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3f6bef-d922-4a2a-ad7e-c8329621b791" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alg/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authz/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/di/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang/gopher meetup-深入浅出Golang Runtime-yifhao-完整版.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k9/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paper/.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_light/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/env.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bilibili/.md" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +31,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KIXService" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
