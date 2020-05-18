@@ -57,6 +57,7 @@ cd ./bin/x86_64/linux/release
 
 #CudaNN
 
+```
 https://developer.nvidia.com/rdp/cudnn-archive
 cd Download
 tar -xzvf cudnn-9.0-linux-x64-v7.tgz
@@ -66,6 +67,20 @@ sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
 sudo dpkg -i libcudnn7_7.0.3.11-1+cuda9.0_amd64.deb
 sudo dpkg -i libcudnn7-devel_7.0.3.11-1+cuda9.0_amd64.deb
 sudo dpkg -i libcudnn7-doc_7.0.3.11-1+cuda9.0_amd64.deb
+
+4.注意这里是7.0.4版本，进入到cuda路径
+
+cd /usr/local/cuda/lib64/
+1
+在终端输入下面命令，记得版本号改成自己的，比如上面的7.0.4
+
+$ sudo chmod +r libcudnn.so.7.0.4  
+$ sudo ln -sf libcudnn.so.7.0.4 libcudnn.so.7  
+$ sudo ln -sf libcudnn.so.7 libcudnn.so  
+$ sudo ldconfig  
+
+```
+
 
 test:
 cp -r /usr/src/cudnn_samples_v7/ $HOME
